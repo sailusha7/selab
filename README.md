@@ -1,1 +1,1 @@
-Armstrong number
+To determine an Armstrong number
